@@ -1,8 +1,8 @@
 # logisticregression-naivebayes
-Using Logistic Regression (Ridge and Lasso), Naive Bayes, Boosted Trees to model fundraising dataset.
+Used Logistic Regression (Ridge and Lasso), Naive Bayes, Boosted Trees to model the fundraising dataset.
 
 ## Background
-Develop model to improve the cost-effectiveness of direct marketing campaign for a fundraising organization. The overall response rate is 5.1%. Out of those who responded (donated), the average donation is $13.00. Each mailing costs $0.68 to produce and send. A sample of this dataset is taken to develop a classification model that can effectively capture donors so that the expected net profit is maximized. Weighted sampling is used, under-representing the non-responders so that the sample has a more balanced numbers of donors and non-donors.
+Developed models to improve the cost-effectiveness of direct marketing campaign for a fundraising organization. The overall response rate is 5.1%. Out of those who responded (donated), the average donation is $13.00. Each mailing costs $0.68 to produce and send. A sample of this dataset is taken to develop a classification model that can effectively capture donors so that the expected net profit is maximized. Weighted sampling is used, under-representing the non-responders so that the sample has a more balanced numbers of donors and non-donors.
 
 ## Data Cleaning and Transformation
 Data is cleaned and transformations are applied as required.
